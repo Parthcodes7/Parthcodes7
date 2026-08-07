@@ -16,7 +16,6 @@
 
 ```yaml
 name: Parth Jadhav
-role: Software Developer
 currently_building: "Improving my development skills, one project at a time"
 currently_learning: ["Python", "Data Analysis", "C"]
 interests: ["Software Development", "Data & Technology", "Finance"]
@@ -85,11 +84,15 @@ contact: "Feel free to connect — always open to interesting conversations"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Parthcodes7&theme=onedark&no-frame=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Parthcodes7&theme=onedark&no-frame=true&margin-w=8&column=7" />
 
-<sub>⚠️ This card runs on a shared free service and can go blank if it's rate-limited — it usually recovers on its own within a few hours. For a permanently reliable version, <a href="https://github.com/ryo-ma/github-profile-trophy#deploy-your-own-instance">deploy your own free instance</a>.</sub>
+<sub>⚠️ Trophy widgets run on free community-hosted services and can go blank when rate-limited. The mirror above is generally more stable than the main one — if it ever goes blank too, swap the URL back to <code>github-profile-trophy.vercel.app</code>, or for guaranteed uptime, <a href="https://github.com/ryo-ma/github-profile-trophy#deploy-your-own-instance">deploy your own free instance</a> (takes ~2 minutes, no code needed).</sub>
 
 </div>
+<!-- Backup URL if the mirror above ever breaks:
+https://github-profile-trophy.vercel.app/?username=Parthcodes7&theme=onedark&no-frame=true&margin-w=8&column=7
+-->
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
